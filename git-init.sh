@@ -14,7 +14,7 @@ git commit -m "Initial commit: Cafe Management System Microservices"
 
 # Instructions for GitHub
 echo ""
-echo "==== GitHub Repository Setup ===="
+
 echo "1. Create a new repository on GitHub"
 echo "2. Add your Docker Hub credentials as repository secrets:"
 echo "   - DOCKER_USERNAME: Your Docker Hub username"
